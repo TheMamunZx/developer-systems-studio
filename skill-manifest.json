@@ -1,0 +1,26 @@
+{
+  "repository": "developer-systems-studio",
+  "title": "Developer Systems Studio",
+  "master_skill": "developer-systems-studio",
+  "discoverable_skills": 1,
+  "internal_modules": [
+    "programming-language-engineer.md",
+    "compiler-engineer.md",
+    "operating-system-engineer.md",
+    "browser-engineer.md",
+    "database-internals-engineer.md",
+    "network-protocol-engineer.md",
+    "blockchain-engineer.md",
+    "human-centered-product-design.md",
+    "design-quality-critic.md",
+    "product-experience-engineer.md",
+    "INDEX.md"
+  ],
+  "module_count": 10,
+  "human_centered_modules": [
+    "human-centered-product-design",
+    "design-quality-critic",
+    "product-experience-engineer"
+  ],
+  "note": "Internal modules are reference playbooks, not separate discoverable skills."
+}
